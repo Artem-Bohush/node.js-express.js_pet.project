@@ -8,7 +8,7 @@
     - 
     
 ## Installation
-  Download the repository -> open the folder with source code -> run command 'npm install' then 'npm run dev' -> open your browser at local localhost:3000. Any changes at your discretion :)
+  Download the repository -> open the folder with source code -> run command ```npm install``` then 'npm run dev' -> open your browser at local localhost:3000. Any changes at your discretion :)
   The working version of the project can be viewed at the link below
 
 #### • [Course Shop](https://mysterious-brushlands-67114.herokuapp.com/)

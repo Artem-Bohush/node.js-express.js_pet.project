@@ -1,0 +1,42 @@
+<h3>My profile</h3>
+
+<div class="row">
+  <div class="col s6">
+
+    {{#if user.avatarURL}}
+      <img 
+        class="avatar"
+        src="/{{user.avatarURL}}" 
+        alt="avatar-{{user.name}}"
+      >
+    {{else}}
+      <h5>No avatar</h5>
+    {{/if}}
+  </div>
+
+  <div class="col s6">
+    <form action="/profile" method="POST" enctype="multipart/form-data">
+      <p>Your email: <strong>{{user.email}}</strong></p>
+
+      <div class="input-field">
+        <input id="name" name="name" type="text" class="validate" required value="{{user.name}}">
+        <label for="name">Your name</label>
+        <span class="helper-text" data-error="Имя не может быть пустым"></span>
+      </div>
+
+      <div class="file-field input-field">
+        <div class="btn">
+          <span>Avatar</span>
+          <input type="file" name="avatar">
+        </div>
+        <div class="file-path-wrapper">
+          <input class="file-path validate" type="text">
+        </div>
+      </div>
+
+      <input type="hidden" name="_csrf" value="{{csrf}}">
+
+      <button type="submit" class="btn">Change</button>
+    </form>
+  </div>
+</div>

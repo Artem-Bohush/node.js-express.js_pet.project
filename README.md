@@ -3,6 +3,9 @@
   This application is my pet project. Over the course of its implementation, I gained a lot of practical skills using various features of the Node.js platform, as well as the Express.js framework. 
 
 ## Description
+- George Washington
+- John Adams
+- Thomas Jefferson
 
   The following topics were practiced in this project: 
     - HTML templates(Handlebars engine)

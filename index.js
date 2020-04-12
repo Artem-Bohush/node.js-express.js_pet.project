@@ -89,7 +89,3 @@ async function start() {
   }
 }
 start();
-
-// angularImg - https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png
-// reactImg - https://sujanbyanjankar.com.np/wp-content/uploads/2019/02/react-redux.png
-// vueImg - https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png

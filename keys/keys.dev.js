@@ -1,7 +1,7 @@
 module.exports = {
   BASE_URL: 'http://localhost:3000',
-  MONGODB_URI: 'mongodb+srv://ArtemBohush:aMFpmpmkeqlIMb4v@cluster0-5xwdk.mongodb.net/shop',
+  MONGODB_URI: 'create your own cluster on mongoDB Atlas',
   SESSION_SECRET: 'any secret value',
-  SENDGRID_API_KEY: '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',
+  SENDGRID_API_KEY: 'create your own API key on SendGrid service',
   EMAIL_FROM: 'art.bohush@gmail.com',
 };

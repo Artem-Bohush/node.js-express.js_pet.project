@@ -1,7 +1,7 @@
 # Course Shop App
 
-  This application is my pet project. Over the course of its implementation, I gained a lot of practical skills using various features of the Node.js platform, as well as the Express.js framework. 
-####  • See the application at the link [Course Shop App](https://mysterious-brushlands-67114.herokuapp.com/)
+  This application is my pet project. Over the course of its implementation, I gained a lot of practical skills using various features of the Node.js platform, as well as the Express.js framework. See the application at the link below.
+####  • [Course Shop App](https://mysterious-brushlands-67114.herokuapp.com/)
 Also see one more code sample - https://github.com/Artem-Bohush/node.js-mysql-crud-rest-api
 
 ## Description

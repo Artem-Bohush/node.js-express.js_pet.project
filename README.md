@@ -15,4 +15,4 @@ The following topics were practiced in this project:
 - Deploying(Heroku)
     
 ### Setup
-  Run command ```npm install``` then ```npm run dev``` -> open your browser at local localhost:3000.\
+  Run command ```npm install``` then ```npm run dev``` -> open your browser at local localhost:3000.

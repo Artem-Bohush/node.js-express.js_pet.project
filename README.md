@@ -15,4 +15,4 @@ The following topics were practiced in this project:
     
 ### Setup
   Run command ```npm install``` then ```npm run dev``` -> open your browser at local localhost:3000.\
-  Also see my another code https://github.com/Artem-Bohush/node.js-mysql-crud-rest-api
+  Also see one more code sample - https://github.com/Artem-Bohush/node.js-mysql-crud-rest-api

@@ -13,5 +13,5 @@ The following topics were practiced in this project:
 - Form validations(server side)
 - Deploying(Heroku)
     
-## Setup
+### Setup
   Run command ```npm install``` then ```npm run dev``` -> open your browser at local localhost:3000.

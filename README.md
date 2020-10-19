@@ -3,6 +3,7 @@
   This application is my pet project. Over the course of its implementation, I gained a lot of practical skills using various features of the Node.js platform, as well as the Express.js framework.
   
 See the application [here](https://mysterious-brushlands-67114.herokuapp.com/).
+
 Database structure see [here](https://whimsical.com/2hvbHoswvCry7Wa3478Kqu).
 
 

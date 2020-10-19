@@ -18,11 +18,11 @@ The following topics were practiced in this project:
 - Deploying(Heroku)
 
 You need to set the following environment variables:
-- BASE_URL
-- MONGODB_URI
-- SESSION_SECRET
-- SENDGRID_API_KEY
-- EMAIL_FROM
+- `BASE_URL`
+- `MONGODB_URI`
+- `SESSION_SECRET`
+- `SENDGRID_API_KEY`
+- `EMAIL_FROM`
     
 ### Setup
   Run command ```npm install``` then ```npm run dev``` -> open your browser at local localhost:3000.
